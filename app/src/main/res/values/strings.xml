@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DotComGame</string>
+    <string name="non_Clicked">❓</string>
+    <string name="miss">✖︎</string>
+    <string name="hit">●</string>
+    <string name="message">Game Battleship (bắn thuyền) phiên bản easy.\nCó 3 chấm (dots) liền nhau trong 6 ô này.\n
+        Bạn này cần bắn nó với ít lần thử nhất :v</string>
+    <string name="result_excelent">Nice :v</string>
+    <string name="result_good">Được :v</string>
+    <string name="result_bad">Cùi vậy :v</string>
+    <string name="result_Front">Bạn này đã thắng với </string>
+    <string name="result_End"> lần thử :v\n</string>
+    <string name="replay">Replay</string>
+</resources>
